@@ -3,18 +3,17 @@
 Hello, welcome to my portfolio! I’m Cameron Grayson, and I am a recent Data Science graduate and aspiring Data Analytics professional. 
 The purpose of this page is to showcase my skills working with various tools that may be used in Data Analytics.
 
-My portfolio is broken down into two sections as follows:
+My portfolio is broken down into two sections (repositories) as follows:
 - Personal Projects
 - University Projects
 
-I will post a readme file in each folder outlining the tools and concepts used in the projects contained in that folder.
+To navigate, choose 'Repositories' at the top, and choose the repository you would like to view.
+Each repository has a readme file that will display with information about each project within.
+If you would like to view the contents of the project, click on the project's folder (located at the top of the repository).
 
 ### I am currently waiting on University permission to post projects.
 
-In order to protect the privacy of my solutions to university projects, this folder will be password protected. 
-If you would like to view these projects (and have not been given a password already), please contact me at the email address listed below.
-
-I can be reached at camgrayson94@gmail.com
+I can be reached at camgrayson94@gmail.com with any questions.
 
 Thank you for visiting!
 
