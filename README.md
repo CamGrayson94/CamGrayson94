@@ -11,8 +11,6 @@ To navigate, choose 'Repositories' at the top, and choose the repository you wou
 Each repository has a readme file that will display with information about each project within.
 If you would like to view the contents of the project, click on the project's folder (located at the top of the repository).
 
-### I am currently waiting on University permission to post projects.
-
 I can be reached at camgrayson94@gmail.com with any questions.
 
 Thank you for visiting!
