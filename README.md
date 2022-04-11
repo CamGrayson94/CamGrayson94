@@ -3,9 +3,8 @@
 Hello, welcome to my portfolio! I’m Cameron Grayson, and I am a recent Data Science graduate and aspiring Data Analytics professional. 
 The purpose of this page is to showcase my skills working with various tools that may be used in Data Analytics.
 
-My portfolio is broken down into two sections (repositories) as follows:
+My portfolio is broken down into sections (repositories) as follows:
 - Personal Projects
-- University Projects
 
 To navigate, choose 'Repositories' at the top, and choose the repository you would like to view.
 Each repository has a readme file that will display with information about each project within.
